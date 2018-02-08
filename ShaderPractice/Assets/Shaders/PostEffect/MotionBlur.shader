@@ -1,4 +1,4 @@
-﻿Shader "Custom/MotionBlur" {
+﻿Shader "Custom/PostEffect/MotionBlur" {
 	Properties {
 		_MainTex ("Base (RGB)", 2D) = "white" {}
 		_BlurAmount ("Blur Amount", Float) = 1.0

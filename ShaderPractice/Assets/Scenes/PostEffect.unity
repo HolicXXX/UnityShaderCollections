@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   motionBlurShader: {fileID: 4800000, guid: 5e80368f867164068bf7f1ac39f0acc2, type: 3}
-  blurAmount: 0.5
+  blurAmount: 0.7
 --- !u!1 &1094270008
 GameObject:
   m_ObjectHideFlags: 0
